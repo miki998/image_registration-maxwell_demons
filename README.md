@@ -12,8 +12,12 @@
 
 DISCLAIMER: the maximum generality we allow ourselves is to deal only with disks of different direction, and allow ourselves only rigid transform plus white background
 
+![](https://github.com/miki998/image_registration-maxwell_demons/blob/master/readme_images/demon0.png)
+
 ### Implementation of demon 1
 - demons are on are scattererd on the the full grid of $S$ but where the intensity grad is non-zero.
 - free form deformation, effect of force using Gaussian filter
 - trilinear interpolation in $M$
 - magnitude of force given by optical flow, direction too, so then link back to trilinear interpolation to get final direction and momentum
+
+![](https://github.com/miki998/image_registration-maxwell_demons/blob/master/readme_images/demon1.png)
