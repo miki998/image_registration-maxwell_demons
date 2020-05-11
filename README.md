@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R11K2H4)
 ## Algorithm
 
 ##### Notations
