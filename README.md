@@ -1,8 +1,8 @@
 # Diffusion Models: Maxwell-Demons
 ![](https://img.shields.io/badge/<Implementation>-<demon0>-<success>)
 ![](https://img.shields.io/badge/<Implementation>-<demon1>-<success>)
-![](https://img.shields.io/badge/<Implementation>-<demon2>-<important>)
-![](https://img.shields.io/badge/<Implementation>-<demon3>-<red>)
+![](https://img.shields.io/badge/<Implementation>-<demon2>-<orange>)
+![](https://img.shields.io/badge/<Implementation>-<demon3>-<lightgrey>)
 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R11K2H4)
